@@ -1,7 +1,7 @@
 # MANUAL COEAF
 
 <!-- Imagen: colocar image_cere.png en images/image_cere.png o ajustar la ruta según donde la subas -->
-![Imagen CEREBRO 1](images/image_cere.png)
+![Imagen CEREBRO 1](image_cere.png)
 
 > A continuación se incluye íntegramente el archivo `E-AgenteFil.md` para poder leerse directamente desde este README. Fuente original: [E-AgenteFil.md](https://github.com/mikeround/MANUAL-COEAF/blob/410484ea00446ca92e44c1de637052c72cd83ac1/E-AgenteFil.md).
 
